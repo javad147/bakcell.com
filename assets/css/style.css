@@ -61,36 +61,32 @@
   }
   
   .form-check-input {
-    transform: scale(1.5); /* Увеличение размера чекбокса */
+    transform: scale(1.5); 
   }
   
   .bi-sun,
   .bi-moon {
-    font-size: 2em; /* Увеличение размера иконок */
+    font-size: 2em;
   }
 
   .fa-brands.fa-slack {
-    font-size: 1.5em; /* Увеличьте этот размер по вашему усмотрению */
+    font-size: 1.5em; 
   }
 
   .carousel-inner {
-    width: 200%; /* Увеличьте этот размер по вашему усмотрению */
-    margin-left: -42%; /* Компенсация для центрирования слайдов */
+    width: 200%; 
+    margin-left: -42%; 
   }
   
   .carousel-item {
-    width: 100%; /* Заполнение всей ширины слайда */
+    width: 100%; 
   }
   
   .carousel-item img {
-    width: 100%; /* Заполнение всей ширины изображения в слайде */
+    width: 100%; 
     height: auto;
   }
   
-  .card {
-    width: 392px;
-    height: 481px;
-  }
 
 
 
