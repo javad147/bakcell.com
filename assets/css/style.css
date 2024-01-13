@@ -1,0 +1,97 @@
+@font-face{
+    font-family: Montserrat-ExtraBold;
+}
+
+.navbar-left-up li a{
+    color: black;
+}
+.navbar-left-up li a:hover{
+    color: #CE242B;
+
+}
+
+.navbar-right-up li a{
+    color: black;
+}
+.navbar-right-up li a:hover{
+    color: #CE242B;
+
+}
+
+.navbar-left-down li a{
+    color: black;
+    
+}
+.navbar-left-down li a:hover{
+    color: #CE242B;
+
+}
+
+.navbar-right-down li a{
+    color: black;
+}
+.navbar-right-down li a:hover{
+    color: #CE242B;
+
+}
+
+.navbar-right-up button:hover{
+    color: #CE242B;
+
+}
+
+.navbar-left-down button:hover{
+    color: #CE242B;
+}
+
+.navbar-left-down li:hover{
+    color: #CE242B;
+}
+
+.dropdown-menu-white li {
+    border-bottom: 0px solid #ccc; 
+  }
+  
+  .dropdown-menu-white li a {
+    font-weight: bold; 
+  }
+
+  .form-check {
+    margin-bottom: -40px;
+  }
+  
+  .form-check-input {
+    transform: scale(1.5); /* Увеличение размера чекбокса */
+  }
+  
+  .bi-sun,
+  .bi-moon {
+    font-size: 2em; /* Увеличение размера иконок */
+  }
+
+  .fa-brands.fa-slack {
+    font-size: 1.5em; /* Увеличьте этот размер по вашему усмотрению */
+  }
+
+  .carousel-inner {
+    width: 200%; /* Увеличьте этот размер по вашему усмотрению */
+    margin-left: -42%; /* Компенсация для центрирования слайдов */
+  }
+  
+  .carousel-item {
+    width: 100%; /* Заполнение всей ширины слайда */
+  }
+  
+  .carousel-item img {
+    width: 100%; /* Заполнение всей ширины изображения в слайде */
+    height: auto;
+  }
+  
+  .card {
+    width: 392px;
+    height: 481px;
+  }
+
+
+
+  
